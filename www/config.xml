@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.norvikbanka.app"
         version   = "0.0.1">
-    <name>Norik Banka</name>
+    <name>Norvik Banka</name>
 
     <description>
         AS Norvik Banka shortcut application for quick navigation.
